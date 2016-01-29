@@ -1,0 +1,28 @@
+name: supercyberheroes
+favicon: null
+layout_spectrum: 0.9448252969887108
+typography_spectrum: 0.9444178817793727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#75a626'
+    - '#dd6895'
+    - '#005224'
+    - '#f1f1e5'
+  brandStrength: 0
+  lightness: 0.37644507572986186
+  saturation: 0.7261262808460742
+  rhythmicContrast: 0.49562780396081507
+purpose: []
