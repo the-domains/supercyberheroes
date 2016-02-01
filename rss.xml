@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[supercyberheroes]]></title>
         <description><![CDATA[supercyberheroes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://supercyberheroes.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 12:30:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 12:38:59 GMT</lastBuildDate>
+        <atom:link href="http://supercyberheroes.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://ecx.images-amazon.com/images/I/41pAk1-6%2BvL._AA160_.jpg">]]></description>
+            <link>http://supercyberheroes.com/d58074d2-06d3-4cdf-8094-57badf9ee672/index.html</link>
+            <guid isPermaLink="false">d58074d2-06d3-4cdf-8094-57badf9ee672</guid>
+            <pubDate>Mon, 01 Feb 2016 12:38:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://ecx.images-amazon.com/images/I/51JMbwWnTLL._SX351_BO1,204,203,200_.jpg">]]></description>
-            <link>undefinedc456fc02-fac7-443c-8c43-06a40338a010/index.html</link>
+            <link>http://supercyberheroes.com/c456fc02-fac7-443c-8c43-06a40338a010/index.html</link>
             <guid isPermaLink="false">c456fc02-fac7-443c-8c43-06a40338a010</guid>
             <pubDate>Mon, 01 Feb 2016 12:30:02 GMT</pubDate>
         </item>
